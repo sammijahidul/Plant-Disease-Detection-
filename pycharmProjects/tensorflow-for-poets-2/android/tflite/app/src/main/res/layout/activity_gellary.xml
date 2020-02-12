@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.tflitecamerademo.Gallery"
+    android:background="@color/control_background">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="17sp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500sp"
+            android:id="@+id/input_image"
+            android:src="@drawable/ic_launcher"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose Image"
+            android:onClick="chooseImage"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="start recognition"
+            android:onClick="startClasify"/>
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Result"
+            android:textSize="23sp"
+            android:textColor="@color/result"
+          />
+
+        <TextView
+            android:textColor="@color/treatment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Treatment:"
+            android:textSize="23sp" />
+        <TextView
+            android:textColor="@color/treatment"
+            android:id="@+id/treatment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Result"
+            android:textSize="23sp"
+            android:layout_marginBottom="100sp"/>
+
+    </LinearLayout>
+
+</ScrollView>

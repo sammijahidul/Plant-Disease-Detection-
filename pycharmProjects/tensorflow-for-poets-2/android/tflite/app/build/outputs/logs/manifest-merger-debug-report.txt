@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/96631ca22d2e614a5357dc39504a22c5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8e29cf065930fa0088cbe916e400f11d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/4e78567b20d3e5b306dd2f90f2974b2a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/ca758b397eac40d7afed015f651039b6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/71eb93f61bc4a251fa0e242ef2d08754/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/898d9e5d448007a58e931b849f42a7ca/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/4bf1b7f9f386cabccb2cb31957116b19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4427ff4b53dfe4dbec12e6213e9aefcf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6d80cfe15aefe953c4aa6c7facc64ea5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/f0446fd7a3e33b6f79194ee4504d866b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f0d170567540213ddfb09a22dfb7719d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/be1dd89437a5a3ea98a9f8792dd22df5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/6b04495e88a237e28086dad28282a1bb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1612baa71a27450cd26221250143c1c0/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/0763f13a64e146cad818a176d585961d/AndroidManifest.xml:2:1-10:12
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:4:5-51
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:9:19-67
+application
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:11:5-27:19
+MERGED from [com.android.support:design:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/96631ca22d2e614a5357dc39504a22c5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/96631ca22d2e614a5357dc39504a22c5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8e29cf065930fa0088cbe916e400f11d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8e29cf065930fa0088cbe916e400f11d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/4e78567b20d3e5b306dd2f90f2974b2a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/4e78567b20d3e5b306dd2f90f2974b2a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/ca758b397eac40d7afed015f651039b6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/ca758b397eac40d7afed015f651039b6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/71eb93f61bc4a251fa0e242ef2d08754/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/71eb93f61bc4a251fa0e242ef2d08754/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/898d9e5d448007a58e931b849f42a7ca/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/898d9e5d448007a58e931b849f42a7ca/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4427ff4b53dfe4dbec12e6213e9aefcf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4427ff4b53dfe4dbec12e6213e9aefcf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6d80cfe15aefe953c4aa6c7facc64ea5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6d80cfe15aefe953c4aa6c7facc64ea5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/f0446fd7a3e33b6f79194ee4504d866b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/f0446fd7a3e33b6f79194ee4504d866b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f0d170567540213ddfb09a22dfb7719d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f0d170567540213ddfb09a22dfb7719d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/be1dd89437a5a3ea98a9f8792dd22df5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/be1dd89437a5a3ea98a9f8792dd22df5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/6b04495e88a237e28086dad28282a1bb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/6b04495e88a237e28086dad28282a1bb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1612baa71a27450cd26221250143c1c0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1612baa71a27450cd26221250143c1c0/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/0763f13a64e146cad818a176d585961d/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/0763f13a64e146cad818a176d585961d/AndroidManifest.xml:8:5-20
+	android:label
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:14:9-41
+	tools:ignore
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:16:9-48
+	android:icon
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:15:9-45
+activity#com.example.android.tflitecamerademo.Gallery
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:17:9-45
+	android:name
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:17:19-42
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:9-52
+	android:name
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:19-49
+activity#com.example.android.tflitecamerademo.MainActivity
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:name
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/96631ca22d2e614a5357dc39504a22c5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/96631ca22d2e614a5357dc39504a22c5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8e29cf065930fa0088cbe916e400f11d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8e29cf065930fa0088cbe916e400f11d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/4e78567b20d3e5b306dd2f90f2974b2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/4e78567b20d3e5b306dd2f90f2974b2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/ca758b397eac40d7afed015f651039b6/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/ca758b397eac40d7afed015f651039b6/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/71eb93f61bc4a251fa0e242ef2d08754/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/71eb93f61bc4a251fa0e242ef2d08754/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/898d9e5d448007a58e931b849f42a7ca/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/898d9e5d448007a58e931b849f42a7ca/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/4bf1b7f9f386cabccb2cb31957116b19/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/4bf1b7f9f386cabccb2cb31957116b19/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4427ff4b53dfe4dbec12e6213e9aefcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4427ff4b53dfe4dbec12e6213e9aefcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6d80cfe15aefe953c4aa6c7facc64ea5/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6d80cfe15aefe953c4aa6c7facc64ea5/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/f0446fd7a3e33b6f79194ee4504d866b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/f0446fd7a3e33b6f79194ee4504d866b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f0d170567540213ddfb09a22dfb7719d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f0d170567540213ddfb09a22dfb7719d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/be1dd89437a5a3ea98a9f8792dd22df5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/be1dd89437a5a3ea98a9f8792dd22df5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/6b04495e88a237e28086dad28282a1bb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/6b04495e88a237e28086dad28282a1bb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1612baa71a27450cd26221250143c1c0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1612baa71a27450cd26221250143c1c0/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/0763f13a64e146cad818a176d585961d/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/0763f13a64e146cad818a176d585961d/AndroidManifest.xml:5:5-6:41
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/ironman/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/96631ca22d2e614a5357dc39504a22c5/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		MERGED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ironman/pycharmProjects/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
